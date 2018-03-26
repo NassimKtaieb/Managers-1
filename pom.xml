@@ -93,4 +93,5 @@
     <module>manager-ear</module>
     <module>manager-client</module>
   </modules>
+  
 </project>
